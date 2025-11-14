@@ -1,15 +1,15 @@
 {
  "visibility":"VISIBLE",
- "display":"2",
+ "display":"1",
  
   "sp":"2",
  "image":"",
  "ref":"hdjhk",
- "l1":"https://youtu.be/QwlEZGFOAoM?si=b0eras_aRPhmn_yH",
- "l2":"https://www.facebook.com/groups/828178823162370/?ref=share&mibextid=NSMWBT",
+ "l1":"https://youtu.be/_vDJ0E9Nzeg?si=K1FDraHmOpMnkHq0",
+ "l2":"https://www.jogos.com/ad/links?code=7lwu7zjg",
 
- "button1":"GONE",
+ "button1":"SHOW",
  "but1":"COMMENT",
- "but2":"Join Group",
- "cancelbutton":"SHOW"
+ "but2":"Download",
+ "cancelbutton":"GONE"
 }
