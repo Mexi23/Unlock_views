@@ -1,6 +1,6 @@
 {
  "visibility":"DISABLE",
- "display":"2",
+ "display":"3",
  
   "sp":"2",
  "image":"",
@@ -10,6 +10,6 @@
 
  "button1":"GONE",
  "but1":"COMMENT",
- "but2":"Join Now",
+ "but2":"Watch Now",
  "cancelbutton":"SHOW"
 }
